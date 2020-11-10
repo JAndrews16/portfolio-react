@@ -7,7 +7,6 @@ import Project from "../components/Project/Project"
 const Portfolio = () => {
     return (
     <div>
-        <Navbar />
         <Header />
         <Project />
         <Footer />
