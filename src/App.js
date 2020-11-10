@@ -5,10 +5,12 @@ import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import "./style.css";
 import Wrapper from "./components/Wrapper";
+import Navbar from "./components/Navbar/NavBar";
 
 function App() {
   return ( <>
     <Router>
+      <Navbar />
       <Wrapper>
         <Route exact path="/" component={About} />
         <Route exact path="/about" component={About} />
