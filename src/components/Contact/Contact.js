@@ -3,7 +3,7 @@ import './style.css';
 
 const contactStyle = {
     textAlign:"center",
-    marginTop: "15%",
+    marginTop: "5%",
     color: "beige",
     fontSize: "20px",
     backgroundColor: "rgb(63, 62, 59)",
