@@ -45,7 +45,7 @@ const Project = () => {
                     <img style={imgStyle} src={burgerImg} className="card-img-top" alt="burgers" /></a>
                     <div className="card-body">
                         <h5 className="card-title">Burger Log</h5>
-                        <p className="card-text">A buger logger that allows users to track burgers eaten and not. This application is linked to a database so all information is saved.</p>
+                        <p className="card-text">A burger logger that allows users to track burgers eaten and not. This application is linked to a database so all information is saved.</p>
                     </div>
                 </div>
             </div>
@@ -69,7 +69,7 @@ const Project = () => {
                     <img style={imgStyle} src={passwordImg} className="card-img-top" alt="..." /></a>
                     <div className="card-body">
                         <h5 className="card-title">Password Generator</h5>
-                        <p className="card-text">This applicaitons allows users to generate complex passwords based on selected criteria. Click the image to visit this application.</p>
+                        <p className="card-text">This applicaiton allows users to generate complex passwords based on selected criteria. Click the image to visit this application.</p>
                     </div>
                 </div>
             </div>
@@ -80,7 +80,7 @@ const Project = () => {
                     <img style={imgStyle} src={pitchImg} className="card-img-top" alt="tent" /></a>
                     <div className="card-body">
                         <h5 className="card-title">PitchIt</h5>
-                        <p className="card-text">An online planner for users to track all their camping adventures. Utilizes node mailer to notify users that have been invited on a trip.</p>
+                        <p className="card-text">An online planner for users to track all of their camping adventures. Utilizes node mailer to notify users when they have been invited on a trip.</p>
                     </div>
                 </div>
             </div>
